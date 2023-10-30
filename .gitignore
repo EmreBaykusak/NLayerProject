@@ -1,0 +1,23 @@
+# Rider IDE
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/datasources.xml
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.suo
+*.user
+*.sln.docstates
+# Visual Studio Code
+
+.vscode/
+.settings/
