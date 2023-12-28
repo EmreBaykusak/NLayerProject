@@ -1,4 +1,5 @@
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.deps.json
+C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.runtimeconfig.json
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.dll
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.pdb
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.dll
@@ -12,10 +13,5 @@ C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.dll
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net7.0\refint\NLayer.Repository.dll
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.pdb
-C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll
-C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.runtimeconfig.json
 C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.genruntimeconfig.cache
-C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\NLayer.Repository.deps.json
-C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\NLayer.Repository.runtimeconfig.json
-C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\NLayer.Repository.dll
-C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.API\bin\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\EMREBAYKUŞAK\RiderProjects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll

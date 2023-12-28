@@ -1,6 +1,5 @@
 ﻿using System.Reflection;
 using Autofac;
-using Microsoft.AspNetCore.Mvc.Formatters.Xml;
 using NLayer.Caching;
 using NLayer.Core.Repositories;
 using NLayer.Core.Services;
