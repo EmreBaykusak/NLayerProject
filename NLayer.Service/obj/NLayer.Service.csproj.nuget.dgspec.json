@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj": {}
+    "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\NLayer.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj",
-        "packagesPath": "C:\\Users\\EMREBAYKUŞAK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Core\\obj\\",
+        "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Core\\NLayer.Core.csproj",
+        "packagesPath": "C:\\Users\\yazilimadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EMREBAYKUŞAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yazilimadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,24 +60,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Repository\\NLayer.Repository.csproj": {
+    "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Repository\\NLayer.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Repository\\NLayer.Repository.csproj",
         "projectName": "NLayer.Repository",
-        "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Repository\\NLayer.Repository.csproj",
-        "packagesPath": "C:\\Users\\EMREBAYKUŞAK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Repository\\obj\\",
+        "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Repository\\NLayer.Repository.csproj",
+        "packagesPath": "C:\\Users\\yazilimadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EMREBAYKUŞAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yazilimadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj": {
-                "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj"
+              "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Core\\NLayer.Core.csproj"
               }
             }
           }
@@ -158,24 +158,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj": {
+    "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\NLayer.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj",
+        "projectUniqueName": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\NLayer.Service.csproj",
         "projectName": "NLayer.Service",
-        "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj",
-        "packagesPath": "C:\\Users\\EMREBAYKUŞAK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\obj\\",
+        "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\NLayer.Service.csproj",
+        "packagesPath": "C:\\Users\\yazilimadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EMREBAYKUŞAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yazilimadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -191,8 +191,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Repository\\NLayer.Repository.csproj": {
-                "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Repository\\NLayer.Repository.csproj"
+              "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Repository\\NLayer.Repository.csproj": {
+                "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Repository\\NLayer.Repository.csproj"
               }
             }
           }
@@ -232,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

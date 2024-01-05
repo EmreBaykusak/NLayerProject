@@ -3839,23 +3839,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EMREBAYKUŞAK\\.nuget\\packages\\": {},
-    "D:\\Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yazilimadmin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj",
+      "projectUniqueName": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Caching\\NLayer.Caching.csproj",
       "projectName": "NLayer.Caching",
-      "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj",
-      "packagesPath": "C:\\Users\\EMREBAYKUŞAK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Caching\\obj\\",
+      "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Caching\\NLayer.Caching.csproj",
+      "packagesPath": "C:\\Users\\yazilimadmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Caching\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EMREBAYKUŞAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yazilimadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3871,8 +3871,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj": {
-              "projectPath": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj"
+            "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\NLayer.Service.csproj": {
+              "projectPath": "C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.Service\\NLayer.Service.csproj"
             }
           }
         }
@@ -3902,7 +3902,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
