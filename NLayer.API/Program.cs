@@ -34,13 +34,12 @@ builder.Services.AddScoped(typeof(NotFoundFilter<>));
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddDbContext<AppDbContext>(x =>
     {
-        x.UseNpgsql(builder.Configuration.GetConnectionString("SqlConnection"), option =>
+        x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"), option =>
         {
             option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
         });
     }
 );
-
 builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
 builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
     containerBuilder.RegisterModule(new RepoServiceModule()));

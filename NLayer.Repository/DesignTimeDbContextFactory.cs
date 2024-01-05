@@ -9,15 +9,15 @@ public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<AppDbConte
     public AppDbContext CreateDbContext(string[] args)
     {
         var configuration = new ConfigurationBuilder()
-            .SetBasePath("C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\NLayerUdemyApp\\NLayer.API")
+            .SetBasePath("C:\\Users\\yazilimadmin\\Source\\Repos\\NLayerProject\\NLayer.API")
             .AddJsonFile("appsettings.json")
             .Build();
 
-        var builder = new DbContextOptionsBuilder<AppDbContext>();
+    var builder = new DbContextOptionsBuilder<AppDbContext>();
 
         var connectionString = configuration.GetConnectionString("SqlConnection");
 
-        builder.UseNpgsql(connectionString);
+        builder.UseSqlServer(connectionString);
 
         return new AppDbContext(builder.Options);
     }
